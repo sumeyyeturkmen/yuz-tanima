@@ -1,2 +1,2 @@
-# yuz-tan-ma
+# yuz-tanima
 Python 
